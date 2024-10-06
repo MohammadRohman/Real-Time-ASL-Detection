@@ -2,6 +2,9 @@
 
 This project uses a pre-trained YOLOv5 model to detect and classify hand gestures in real-time via a webcam feed. The goal is to recognize different sign language gestures with high accuracy and display relevant metrics.
 
+## DEMO OF THIS PROJECT
+- https://youtu.be/Mt7fet5Ib3Q
+
 ## Features
 - Real-time sign language detection from live video feed using YOLOv5.
 - Displays bounding boxes and confidence scores for detected gestures.
@@ -54,4 +57,5 @@ pip install torch opencv-python ultralytics matplotlib
 ## AFTER PROGRAM STOP
 - ![WhatsApp Image 2024-10-06 at 20 17 13_76ca0016](https://github.com/user-attachments/assets/608d42ed-ec71-4eae-a01d-6da1302803a2)
 - ![WhatsApp Image 2024-10-06 at 20 17 13_eea6a247](https://github.com/user-attachments/assets/06874af2-c912-4007-bb7e-c0d32e9abe61)
+
 
